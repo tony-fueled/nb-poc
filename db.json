@@ -2,10 +2,20 @@
     "posts": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "test title",
+        "userId": 2,
+        "body": "test body"
       }
     ],
     "profile": {
-      "name": "typicode"
-    }
+      "name": "fueled"
+    },
+    "users": [
+        {
+            "name" : "Tony",
+            "email" : "tony-test@test.com",
+            "id": 2,
+            "city" : "Chicago"
+        }
+    ]
   }
